@@ -6,8 +6,6 @@ import logo from '../assets/investigation_9532156.png';
 
 function Home(){
 
-    const [tasks, setTasks] = useState([]);
-  const [newTask, setNewTask] = useState('');
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
     return(
